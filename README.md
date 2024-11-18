@@ -1,6 +1,6 @@
 # Título
 
-## RETURNMATERIALAUTHORIZATION
+## Return Material Authorization
 
 Protótipo do Sistema de RMA
 
@@ -40,9 +40,12 @@ das solicitações de RMA em andamento.
 
 ---
 ## Diagrama de Banco de Dados
+
+![Diagrama](Schema-RMADatabase.png)
 ---
 ---
 ## Fluxo Proposto para o RMA (Backend)
+![Fluxo Proposto para o RMA](PropostalFlowRMA.png)
 
 ---
 ## Instalação
@@ -58,7 +61,7 @@ Para rodar o protótipo localmente, siga os passos abaixo.
 
 1. Clone o repositório:
 
-git clone https://github.com/teuUsuario/TeuRepositorio
+git clone https://github.com/RafaelFCouto/ReturnMateialAuthorization.git
 
 2. Acesse o diretório do projeto:
 
@@ -87,11 +90,6 @@ git clone https://github.com/teuUsuario/TeuRepositorio
 
 ---
 
-## Imagem do fluxo proposto
-- PropostalFlowRMA.png
-
-## Imagem do diagrama do banco
-- Schema-RMADatabase.png
 
 ## Licença
 
@@ -101,7 +99,7 @@ Este projeto está licenciado sob a Licença MIT. Veja o arquivo [LICENSE](LICEN
 
 ## Autor
 
-- *Rafel Freire Couto da Silva *
+- *Rafel Freire Couto da Silva*
 
 ---
 Estou a diposição para sanar possíveis dúvidas, entre em contato pelo [WhatsApp](https://wa.me/5592991004063)
